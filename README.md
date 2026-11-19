@@ -48,7 +48,7 @@ python app.py
 3. Run:
    ```bash
    pip install -r requirements.txt
-   python3 app.py
+   python app.py
    ```
 
 `DB_MODE=auto` (default) tries MySQL first and falls back to SQLite if
